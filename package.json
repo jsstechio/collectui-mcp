@@ -1,7 +1,7 @@
 {
   "name": "collectui-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for browsing Collect UI design inspiration — 14,400+ curated UI designs across 167 categories",
+  "version": "1.1.0",
+  "description": "MCP server for design inspiration — searches Collect UI, Godly, Land-book, Httpster, Brutalist Websites, and Fonts In Use in parallel",
   "type": "module",
   "bin": {
     "collectui-mcp": "./bin/server.mjs"
@@ -13,9 +13,13 @@
   "keywords": [
     "mcp",
     "collectui",
+    "godly",
+    "landbook",
+    "httpster",
+    "brutalist",
+    "fontsinuse",
     "design-inspiration",
     "ui-design",
-    "dribbble",
     "design-system"
   ],
   "license": "MIT",
