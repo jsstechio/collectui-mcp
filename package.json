@@ -1,0 +1,28 @@
+{
+  "name": "collectui-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for browsing Collect UI design inspiration — 14,400+ curated UI designs across 167 categories",
+  "type": "module",
+  "bin": {
+    "collectui-mcp": "./bin/server.mjs"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [
+    "mcp",
+    "collectui",
+    "design-inspiration",
+    "ui-design",
+    "dribbble",
+    "design-system"
+  ],
+  "license": "MIT",
+  "author": "jsstech",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.21.1",
+    "cheerio": "^1.0.0",
+    "zod": "^3.23.8"
+  }
+}
