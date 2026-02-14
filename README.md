@@ -1,0 +1,1 @@
+# collectui-mcp
